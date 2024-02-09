@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fiTctfLNQlzNOyomGR7PgqlPivZYgrrBYQZ9qXHaESU=",
+  "Source": "dailyCustomerAddAPI",
+  "BasePath": "_content/dailyCustomerAddAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
